@@ -1,4 +1,4 @@
-#!/bin/bashD
+#!/bin/bash
 echo "This school is so cool!"
 echo "Best school"
-
+update_script
